@@ -1,9 +1,9 @@
+"""Module principal."""
+
 def addition(a, b):
-    """Return the result of the addition of the 2 given parameters"""
+    """Addition : Retourne la somme de a et b."""
     return a + b
 
-
 def division(a, b):
-    """Return the result of the division of the 2 given parameters"""
+    """Division : Retourne la division de a par b."""
     return a / b
-
