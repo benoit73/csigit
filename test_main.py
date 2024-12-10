@@ -11,3 +11,6 @@ def test_addition(a, b, result):
     """Test de la fonction d'addition avec les valeurs paramétrées."""
     a, b = 2,3
     assert addition(a, b) == result
+
+exit 
+tutututtuu
